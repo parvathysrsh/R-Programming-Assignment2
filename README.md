@@ -23,3 +23,14 @@
 ## Return the matrix
     m
  }
+ 
+## Method to set the inverse of the matrix
+  setInverse <- function(inverse) {
+  i <<- inverse
+}
+
+## Method to get the inverse of the matrix
+    getInverse <- function() {
+## Return the inverse property
+    i  }
+
